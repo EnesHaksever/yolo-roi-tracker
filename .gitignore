@@ -1,0 +1,18 @@
+# Model agirliklari (buyuk dosyalar - GitHub'a konmaz)
+*.pt
+*.onnx
+*.engine
+
+# Video / goruntu ciktilari
+*.mp4
+*.mov
+*.avi
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Ultralytics ciktilari
+runs/

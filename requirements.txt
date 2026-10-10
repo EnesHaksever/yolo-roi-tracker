@@ -1,0 +1,9 @@
+# ROITracker calisma gereksinimleri
+# torch/CUDA'yi once kendi surumune gore kur, orn:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+ultralytics
+opencv-python
+numpy
+lap
+# analogyolotest.py kamera listesi icin (yalnizca Windows):
+pygrabber
